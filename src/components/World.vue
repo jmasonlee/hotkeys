@@ -15,5 +15,7 @@ export default defineComponent({
 </script>
 
 <style scoped>
-
+.hotkey {
+  font-size: 10em;
+}
 </style>
