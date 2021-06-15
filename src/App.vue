@@ -6,12 +6,12 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue'
-import HelloWorld from './components/World.vue'
+import World from './components/World.vue'
 
 export default defineComponent({
     name: 'App',
     components: {
-        HelloWorld,
+        HelloWorld: World,
     },
 })
 </script>
