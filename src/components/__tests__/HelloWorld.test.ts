@@ -1,5 +1,5 @@
 import  { mount } from '@vue/test-utils'
-import World from '@/components/HelloWorld.vue'
+import World from '@/components/World.vue'
 
 describe('HelloWorld', () => {
     it('will greet people', function () {
