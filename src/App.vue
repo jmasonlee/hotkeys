@@ -11,7 +11,7 @@ import World from './components/World.vue'
 export default defineComponent({
     name: 'App',
     components: {
-        HelloWorld: World,
+        World: World,
     },
 })
 </script>
