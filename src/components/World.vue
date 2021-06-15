@@ -1,5 +1,5 @@
 <template>
-  <div>⌘</div>
+  <div class="hotkey">⌘</div>
 </template>
 
 <script lang="ts">
